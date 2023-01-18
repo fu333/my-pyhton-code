@@ -1,2 +1,2 @@
 # my-pyhton-code
-# there are python codes i elaborate
+there are python codes i elaborate
